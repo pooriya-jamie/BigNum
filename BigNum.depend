@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1652248590 source:d:\desktop\bignum\bignum.cpp
+	<bits/stdc++.h>
+	"BigNum.h"
+
+1652248590 d:\desktop\bignum\bignum.h
+	<bits/stdc++.h>
+
